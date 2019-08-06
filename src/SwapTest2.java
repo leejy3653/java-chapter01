@@ -15,5 +15,4 @@ public class SwapTest2 {
 		p = q;
 		q = temp;
 	}
-
 }
